@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ulya</h1>
 <h3 align="center">A new learner in programming</h3>
 
-- 🌱 I’m currently learning **UI/UX Design**
-
-- 📫 How to reach me **karimaulya13@gmail.com**
-
-- ⚡ Fun fact **I'm an ownersahi**
+🌱 I’m currently learning **UI/UX Design**
+📫 How to reach me **karimaulya13@gmail.com**
+⚡ Fun fact **I'm an ownersahi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,9 +24,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=karimaulya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=karimaulya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=karimaulya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=karimaulya&theme=blue_navy&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
