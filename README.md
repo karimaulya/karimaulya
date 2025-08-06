@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ulya</h1>
-<h3 align="center">A new learner in programming</h3>
+<h3 align="center">still looking for my own passion and path</h3>
 
 - 🌱 I’m currently learning **UI/UX Design**
 - 📫 How to reach me **karimaulya13@gmail.com**
