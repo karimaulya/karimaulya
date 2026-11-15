@@ -1,7 +1,7 @@
 <!-- Header with Typing Animation -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi,+I'm+Ulya!;+UI/UX+%26+Machine+Learning+Enthusiast+;Computer+Science+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2563EB&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Ulya!;UI%2FUX+%26+Machine+Learning+Enthusiast;Computer+Science+Student" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -31,9 +31,8 @@
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <!-- Replace YOUR_USERNAME with your actual GitHub username -->
-  <img src="https://github-readme-stats.vercel.app/api?username=karimaulya&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&text_color=ffffff&icon_color=2563EB&bg_color=0d1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karimaulya&theme=transparent&hide_border=true&title_color=2563EB&text_color=ffffff&icon_color=2563EB&background=0d1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karimaulya&show_icons=true&hide_border=true&title_color=2563EB&text_color=c9d1d9&icon_color=2563EB&bg_color=0d1117" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=karimaulya&hide_border=true&title_color=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=8b949e&background=0d1117" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
