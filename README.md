@@ -31,7 +31,6 @@
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karimaulya&show_icons=true&hide_border=true&title_color=2563EB&text_color=c9d1d9&icon_color=2563EB&bg_color=0d1117" alt="GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=karimaulya&hide_border=true&title_color=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=8b949e&background=0d1117" alt="GitHub Streak" width="48%" />
 </div>
 
